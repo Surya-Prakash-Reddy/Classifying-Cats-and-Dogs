@@ -1,4 +1,11 @@
 # Classification of Cats and Dogs
+> Classifies whether an image is of a dog or cat based it's features
+
+## Table of contents
+* [About Project](#about-project)
+* [Languages or Frameworks Used](#languages-or-frameworks-used)
+* [Setup](#setup)
+
 ## About Project:
 
   The project is about classifying images of cats and dogs. I have used pretrained model densenet121 which is trained on Imagenet dataset. 
@@ -12,10 +19,21 @@
   ![Output of Model](https://github.com/SurajChinna/Classifying-Cats-and-Dogs/blob/master/assets/image1.png "Output of Model")
   
 
-## Languages or frameworks used 
+## Languages or Frameworks Used 
 
   * Python: language
   * NumPy: library for numerical calculations
   * Matplotlib: library for data visualisation
   * Pytorch: a deep learning framework by Facebook AI Research Team for building neural networks
   * torchvision: package consists of popular datasets, model architectures, and common image transformations for computer vision
+  
+## Setup
+  
+  To use this project, clone the repo
+  
+  ### Clone
+  ```
+    git clone https://github.com/Surya-Prakash-Reddy/Classifying-Cats-and-Dogs.git
+  ```
+  
+  After cloning, you can use the `Classifier.ipynb` notebook to learn. You can also use `checkpoint.pth` file if you do not wish to train your model again or build some webapps using the model. If you are using `checkpoint.pth`, you can find the architecture in `Classifier.ipynb`
