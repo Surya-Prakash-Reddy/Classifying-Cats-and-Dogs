@@ -1,5 +1,5 @@
 # Classification of Cats and Dogs
-> Classifies whether an image is of a dog or cat based it's features
+> Classifies whether an image is of a dog or cat based on the features
 
 ## Table of contents
 * [About Project](#about-project)
