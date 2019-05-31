@@ -9,7 +9,7 @@
   state dict into the model and directly use that.
   
   
-  <img src="https://github.com/SurajChinna/Classifying-Cats-and-Dogs/blob/master/assets/image1.png" />
+  ![Output of Model](https://github.com/SurajChinna/Classifying-Cats-and-Dogs/blob/master/assets/image1.png "Output of Model")
   
 
 ## Languages or frameworks used 
